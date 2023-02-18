@@ -77,7 +77,7 @@ GET ```http://localhost:5000/get-categorized/lol/15```
 ## Random Post (Shuffle)
 
 ```
-http://api-1cak.herokuapp.com/random
+http://localhost:5000/random
 ```
 
 **Response** 
