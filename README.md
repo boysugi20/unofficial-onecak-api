@@ -87,7 +87,7 @@ http://api-1cak.herokuapp.com/random
     "id":"2037577",
     "image":"https://cdn16.1cak.com/posts/154cd259aefefc7c1835cde3117750c8_t.jpg",   
     "link":"https://1cak.com/2037577",
-    nsfw":false,
+    "nsfw":false,
     "title":"Bawa binatang peliharaan di malaysia vs Russia"
 }
 ```
